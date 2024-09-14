@@ -31,13 +31,4 @@ for num in numbers:
 
 print(f"Amazing! The sum of your favorite numbers is: {total_sum}")
 
-is_prime = True
-if sum_of_num <=1:
-    is_prime = False
-for x in range (2,sum_of_num):
- if sum_of_num % x == 0:
-    is_prime = False
- if is_prime == False
-print(f"Great job! The number {sum_of_num} is not a prime number")
-    else:
-    print(f"Wow! The number {sum_of_num} is a prime number.")
+
